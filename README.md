@@ -5,8 +5,10 @@
 *DOMAIN* : SOFTWARE DEVELOPEMENT
 *DURATION* : 6 WEEKS 
 *MENTOR* : NEELA SANTHU
-*DESCRIPTIONS* :
+##DESCRIPTIONS : 
 Tools and Technologies Used:
  * Programming Languages: HTML,CSS JavaScript
  * Software/Platforms: VS CODE
  * Operating Systems: WINDOWS
+#OUTPUT
+"C:\Users\PARESH\Downloads\image.png"
